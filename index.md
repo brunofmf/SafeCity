@@ -6,6 +6,13 @@ Our intention is to be completly transparent in regard to the data we collect an
 
 By accessing or using our application, you agree to the terms of this privacy policy. Your use of the Application is subject to the terms set forth in this Privacy Policy and any other terms we may provide you.
 
+## Data Deletion
+
+You may, at any time, request your data from SafeCity to be deleted. For that just send your request to:
+safecity.plugableai@gmail.com
+
+From that point onwards, ALL your data will be deleted.
+
 ## Information Collection And Use
 
 For a better experience, while using our Service, we may require you to provide us with certain data. The information that we request is retained by us and used to identify the person who is logging in the Service. This data is only used to:
@@ -87,4 +94,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions about this Privacy Policy, please contact us by email at safecity.plugableai@gmail.com.
 
-Effective date: December 22, 2019
+Effective date: December 07, 2023
